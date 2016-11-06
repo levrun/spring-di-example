@@ -4,6 +4,7 @@ the MessagePrinter is decoupled from the MessageService implementation,
 with Spring Framework wiring everything together. 
 
 This is example from http://projects.spring.io/spring-framework/
+and my article in russian https://smartcoderteam.github.io/what-is-spring-framework-and-example-of-di/
 
 How to run 
 ----------
